@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="vstudio">
+</Property><Property Name="Solution File" Value="F:\Saheb's\Assignments_n_Practice\NVidia\ImageScale\Source\lpng1621\projects\vstudio\vstudio.sln">
+</Property><Property Name="Date" Value="Sunday, May 1, 2016">
+</Property><Property Name="Time" Value="21:27 PM">
+</Property></Properties><Event ErrorLevel="2" Project="F:\Saheb's\Assignments_n_Practice\NVidia\ImageScale\Source\lpng1621\projects\vstudio\zlib\zlib.vcxproj" Source="zlib" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="zlib" Source="zlib\zlib.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="zlib" Source="zlib\zlib.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="F:\Saheb's\Assignments_n_Practice\NVidia\ImageScale\Source\lpng1621\projects\vstudio\pnglibconf\pnglibconf.vcxproj" Source="pnglibconf" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="pnglibconf" Source="pnglibconf\pnglibconf.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="pnglibconf" Source="pnglibconf\pnglibconf.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="F:\Saheb's\Assignments_n_Practice\NVidia\ImageScale\Source\lpng1621\projects\vstudio\libpng\libpng.vcxproj" Source="libpng" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="libpng" Source="libpng\libpng.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="libpng" Source="libpng\libpng.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="F:\Saheb's\Assignments_n_Practice\NVidia\ImageScale\Source\lpng1621\projects\vstudio\pngtest\pngtest.vcxproj" Source="pngtest" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="pngtest" Source="pngtest\pngtest.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="pngtest" Source="pngtest\pngtest.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="F:\Saheb's\Assignments_n_Practice\NVidia\ImageScale\Source\lpng1621\projects\vstudio\pngvalid\pngvalid.vcxproj" Source="pngvalid" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="pngvalid" Source="pngvalid\pngvalid.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="pngvalid" Source="pngvalid\pngvalid.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="F:\Saheb's\Assignments_n_Practice\NVidia\ImageScale\Source\lpng1621\projects\vstudio\pngstest\pngstest.vcxproj" Source="pngstest" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="pngstest" Source="pngstest\pngstest.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="pngstest" Source="pngstest\pngstest.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="F:\Saheb's\Assignments_n_Practice\NVidia\ImageScale\Source\lpng1621\projects\vstudio\pngunknown\pngunknown.vcxproj" Source="pngunknown" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="pngunknown" Source="pngunknown\pngunknown.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="pngunknown" Source="pngunknown\pngunknown.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="F:\Saheb's\Assignments_n_Practice\NVidia\ImageScale\Source\ImageScale\ImageScale.vcxproj" Source="ImageScale" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="ImageScale" Source="..\..\..\ImageScale\ImageScale.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="ImageScale" Source="..\..\..\ImageScale\ImageScale.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="vstudio.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="vstudio.sln" Description="No Conversion Required">
+</Event></UpgradeLog>
